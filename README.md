@@ -3,7 +3,7 @@
 You can check in postman or http request in Intellij idea ;)
 
 Example 1: GET -> http://localhost:8080/api/country ,
-           GET -> http://localhost:8080/api/country withParam(:country)
+           GET -> http://localhost:8080/api/country withParam(:countryId)
           
 Example 2: GET -> http://localhost:8080/api/country/parse 
 
